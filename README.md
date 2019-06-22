@@ -28,3 +28,6 @@ void loop() {
 }
 
 ```
+
+
+![fig](https://github.com/cchamchi/arduino_switch/blob/master/switch/Screen%20Shot%202019-06-22%20at%2010.12.32%20PM.png)
